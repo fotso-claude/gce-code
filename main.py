@@ -139,7 +139,6 @@ def decloisonement_mean(dataset):
     print(items)
 
 
-
 if __name__ == "__main__":
     
     # Méthode 1
