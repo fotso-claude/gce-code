@@ -140,7 +140,6 @@ def decloisonement_mean(dataset):
 
 
 if __name__ == "__main__":
-    
     # Méthode 1
     print("---------[ Méthode 1 ]---------")
     gce_method(datas)
