@@ -1,0 +1,443 @@
+{
+    "NGUELIEBOU NGADJEU HERMANN": {
+        "passed_paper": 2,
+        "score": {
+            "FRE": "E",
+            "HIS": "E"
+        }
+    },
+    "YAZEU WATCHOU INGRID FRANDE": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "C",
+            "CHE": "C",
+            "CSC": "D",
+            "PHY": "E",
+            "PMS": "B"
+        }
+    },
+    "NIBA BONGNWI SHU NJIMUWE": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "B",
+            "CHE": "D",
+            "ICT": "C",
+            "PHY": "E",
+            "PMM": "C"
+        }
+    },
+    "EMMANUEL CHUKWUNYERE FAVOR": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "D",
+            "CHE": "C",
+            "FMA": "D",
+            "PHY": "D",
+            "PMM": "C"
+        }
+    },
+    "DOUBASSOU FAWA JEAN OLIVIER": {
+        "passed_paper": 5,
+        "score": {
+            "CHE": "D",
+            "CSC": "E",
+            "FMA": "C",
+            "PHY": "D",
+            "PMM": "B"
+        }
+    },
+    "TALBA AZIZ": {
+        "passed_paper": 5,
+        "score": {
+            "ENG": "D",
+            "FRE": "D",
+            "HIS": "B",
+            "ICT": "C",
+            "LIT": "E"
+        }
+    },
+    "DJIBRILLA MOUSSA": {
+        "passed_paper": 5,
+        "score": {
+            "CHE": "C",
+            "CSC": "E",
+            "FMA": "D",
+            "PHY": "E",
+            "PMM": "B"
+        }
+    },
+    "RAHINE J.NURA DAWDA": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "C",
+            "CHE": "C",
+            "CSC": "E",
+            "PHY": "D",
+            "PMM": "D"
+        }
+    },
+    "ANANE HAMADOU": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "D",
+            "CHE": "D",
+            "ICT": "C",
+            "PHY": "E",
+            "PMS": "D"
+        }
+    },
+    "MAIDAI BREKMO REBECCA": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "E",
+            "CHE": "E",
+            "FMA": "D",
+            "PHY": "E",
+            "PMM": "C"
+        }
+    },
+    "EBOH COLLINS OLUEBUBE": {
+        "passed_paper": 5,
+        "score": {
+            "BIO": "E",
+            "CHE": "C",
+            "CSC": "E",
+            "PHY": "E",
+            "PMM": "D"
+        }
+    },
+    "SHEY GISELE MUKAS": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "D",
+            "PHI": "B"
+        }
+    },
+    "KARANA RISCO UKU": {
+        "passed_paper": 2,
+        "score": {
+            "ECO": "E",
+            "HIS": "C"
+        }
+    },
+    "BAHOUAK MANE AARON STEPHAN": {
+        "passed_paper": 2,
+        "score": {
+            "FRE": "D",
+            "HIS": "E"
+        }
+    },
+    "NZELLE DOLLYBRIAN": {
+        "passed_paper": 2,
+        "score": {
+            "ENG": "D",
+            "PHI": "E"
+        }
+    },
+    "BUH ERICA ZONGHEFEH": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "D",
+            "LIT": "E"
+        }
+    },
+    "KANYIMI ABIGAIL ASHIMI": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "E",
+            "PHI": "E"
+        }
+    },
+    "KOUEKAM NGADJEU YVANE L'OR": {
+        "passed_paper": 2,
+        "score": {
+            "ENG": "E",
+            "HIS": "E"
+        }
+    },
+    "TANTOH BRANDON NGEH": {
+        "passed_paper": 2,
+        "score": {
+            "ECO": "E",
+            "HIS": "E"
+        }
+    },
+    "SOUOP NJENTI SAMUEL AIMERY": {
+        "passed_paper": 2,
+        "score": {
+            "ECO": "E",
+            "ENG": "E"
+        }
+    },
+    "NASALI GRACIOUS YUHAYENFU": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "B",
+            "ENG": "E",
+            "GEO": "B",
+            "HIS": "A"
+        }
+    },
+    "TALLA BRANDON PHECHA": {
+        "passed_paper": 4,
+        "score": {
+            "CHE": "C",
+            "ICT": "A",
+            "PHY": "E",
+            "PMM": "B"
+        }
+    },
+    "TCHATCHOUA TCHOUTANG LIONEL ANDERSON": {
+        "passed_paper": 4,
+        "score": {
+            "CHE": "D",
+            "ICT": "B",
+            "PHY": "D",
+            "PMM": "B"
+        }
+    },
+    "DAHE MERVEILLE": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "B",
+            "ENG": "E",
+            "FRE": "B",
+            "HIS": "C"
+        }
+    },
+    "ITOE BENADINE BERIE": {
+        "passed_paper": 4,
+        "score": {
+            "ENG": "D",
+            "HIS": "B",
+            "LIT": "E",
+            "PHI": "B"
+        }
+    },
+    "BANGUE ASOH MARCSHENIDA": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "C",
+            "ENG": "E",
+            "GEO": "D",
+            "HIS": "B"
+        }
+    },
+    "NGANWOVO NJOYONG CLIVE": {
+        "passed_paper": 4,
+        "score": {
+            "BIO": "E",
+            "CHE": "C",
+            "ECO": "C",
+            "FRE": "C"
+        }
+    },
+    "NCHOUPOUOFON NJANKOUO IBRAHIM CHERIF": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "C",
+            "ENG": "E",
+            "FRE": "D",
+            "HIS": "B"
+        }
+    },
+    "TCHINDA GRACE": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "E",
+            "ENG": "D",
+            "GEO": "C",
+            "HIS": "C"
+        }
+    },
+    "NGANG RUCSANNA NGUM": {
+        "passed_paper": 4,
+        "score": {
+            "BIO": "C",
+            "CHE": "D",
+            "PHY": "E",
+            "PMM": "C"
+        }
+    },
+    "KOLLE NGOKE TRACY": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "C",
+            "GEO": "D",
+            "HIS": "C",
+            "PHI": "E"
+        }
+    },
+    "ENOW BRANDON ETTA": {
+        "passed_paper": 4,
+        "score": {
+            "BIO": "D",
+            "CHE": "D",
+            "PHY": "E",
+            "PMS": "C"
+        }
+    },
+    "MIREILLE FORTUNE SOSEN": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "E",
+            "ENG": "D",
+            "GEO": "D",
+            "ICT": "C"
+        }
+    },
+    "LISSOUCK BRIGITTE CHANTAL TIFENE": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "C",
+            "ENG": "E",
+            "FRE": "C",
+            "LIT": "E"
+        }
+    },
+    "EKWALLA SOPPO GABRIELLA VANINA": {
+        "passed_paper": 4,
+        "score": {
+            "CHE": "D",
+            "FRE": "D",
+            "GEO": "E",
+            "ICT": "D"
+        }
+    },
+    "YIENOU PEMPEME RAINETOU KHADIJA": {
+        "passed_paper": 4,
+        "score": {
+            "CHE": "D",
+            "FMA": "E",
+            "PHY": "E",
+            "PMS": "C"
+        }
+    },
+    "KAMENI FANKAM RICHIE CARELLE": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "D",
+            "FRE": "D",
+            "GEO": "E",
+            "HIS": "D"
+        }
+    },
+    "GANDJI FOUBIA MAELISS CHELSEA": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "E",
+            "ENG": "D",
+            "FRE": "D",
+            "HIS": "D"
+        }
+    },
+    "MUNDEH FAVOUR TAMFU": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "E",
+            "ENG": "E",
+            "GEO": "E",
+            "HIS": "B"
+        }
+    },
+    "HELL LESLIE LOUISE VICKY": {
+        "passed_paper": 4,
+        "score": {
+            "ECO": "D",
+            "ENG": "D",
+            "HIS": "D",
+            "LIT": "E"
+        }
+    },
+    "KUBULA EMMANUEL": {
+        "passed_paper": 3,
+        "score": {
+            "ECO": "C",
+            "GEO": "C",
+            "HIS": "B"
+        }
+    },
+    "FON ODILIA YAJE": {
+        "passed_paper": 3,
+        "score": {
+            "ENG": "E",
+            "HIS": "C",
+            "REL": "B"
+        }
+    },
+    "JUDE MIGIDA": {
+        "passed_paper": 3,
+        "score": {
+            "HIS": "C",
+            "PHI": "E",
+            "REL": "B"
+        }
+    },
+    "GERALDINE KIMBONG": {
+        "passed_paper": 3,
+        "score": {
+            "ECO": "D",
+            "GEO": "E",
+            "HIS": "D"
+        }
+    },
+    "NJI MARCEL NSAH": {
+        "passed_paper": 3,
+        "score": {
+            "ECO": "E",
+            "GEO": "E",
+            "HIS": "C"
+        }
+    },
+    "NJI GIFTY AFILA": {
+        "passed_paper": 3,
+        "score": {
+            "ECO": "E",
+            "GEO": "E",
+            "HIS": "D"
+        }
+    },
+    "NFONKWA EMMACULATE FIANKA": {
+        "passed_paper": 3,
+        "score": {
+            "ECO": "E",
+            "ENG": "E",
+            "HIS": "D"
+        }
+    },
+    "AMUNGWA BLETEN NEBA": {
+        "passed_paper": 2,
+        "score": {
+            "ECO": "E",
+            "HIS": "D"
+        }
+    },
+    "BONGBWEN YVETTE": {
+        "passed_paper": 2,
+        "score": {
+            "GEO": "E",
+            "HIS": "D"
+        }
+    },
+    "NGWEMEKUM JESSICA AZOH": {
+        "passed_paper": 2,
+        "score": {
+            "GEO": "E",
+            "HIS": "E"
+        }
+    },
+    "ADEH ANTIONETTE MANKAA": {
+        "passed_paper": 2,
+        "score": {
+            "GEO": "E",
+            "HIS": "E"
+        }
+    },
+    "BICHAMTI EUNICE": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "E",
+            "LIT": "E"
+        }
+    }
+}
