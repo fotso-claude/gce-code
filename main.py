@@ -97,7 +97,7 @@ def decloisonement(datas):
         "E": 0.40
     }
     
-    proba = {k:v*4 for k,v in probas}
+    proba = {k:v * 4 for k,v in probas.items()}
 
     for key, values in datas.items():
         scores[key] = [i for i in values.get("score").values()]
