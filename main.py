@@ -44,7 +44,7 @@ with open(file, 'r') as f:
 
 
 def gce_method(dataset):
-    """Classement selon le GCE 
+    """Classement selon le GCE
 
     Args:
         dataset (dict): liste des résultats
@@ -109,6 +109,7 @@ def decloisonement(datas):
         items[key] += value.count("D") * probas["D"]
         items[key] += value.count("E") * probas["E"]
 
+    # Trie par valeur décroissante du dictionnaire
     items = dict(sorted(items.items(), key=lambda item: item[1], reverse=True))
     
     return(items)
