@@ -1,5 +1,4 @@
 import json
-from pprint import pprint
 
 file = "D:/ISJ/ING4/algo/gce-code/datas.json"
 
@@ -69,7 +68,7 @@ def gce_method(dataset):
     items = dict(sorted(items.items(), key=lambda item: item[1], reverse=True))
     for key in items.keys():
         result.append(key)
-    pprint(result)
+    print(result)
 
 
 def decloisonement(datas):
@@ -97,17 +96,19 @@ def decloisonement(datas):
         "D": 0.25,
         "E": 0.40
     }
+    
+    proba = {k:v*4 for k,v in probas}
 
     for key, values in datas.items():
         scores[key] = [i for i in values.get("score").values()]
     
     for key, value in scores.items():
         items[key] = 0
-        items[key] += value.count("A") * probas["A"]
-        items[key] += value.count("B") * probas["B"]
-        items[key] += value.count("C") * probas["C"]
-        items[key] += value.count("D") * probas["D"]
-        items[key] += value.count("E") * probas["E"]
+        items[key] += value.count("A") * proba["A"]
+        items[key] += value.count("B") * proba["B"]
+        items[key] += value.count("C") * proba["C"]
+        items[key] += value.count("D") * proba["D"]
+        items[key] += value.count("E") * proba["E"]
 
     # Trie par valeur décroissante du dictionnaire
     items = dict(sorted(items.items(), key=lambda item: item[1], reverse=True))
@@ -142,16 +143,16 @@ def decloisonement_mean(dataset):
 
 if __name__ == "__main__":
     # Méthode 1
-    print("---------[ Méthode 1 ]---------")
+    print("\n-------------[ GCE ]--------------\n")
     gce_method(datas)
     print("\n")
 
     # Méthode 2
-    print("---------[ Méthode 2 ]---------")
+    print("---------[ Décloisonement ]---------\n")
     print(decloisonement(datas))
     print("\n")
     
     # Méthode 4
-    print("---------[ Méthode 4 ]---------")
+    print("-----[ Décloisonement Moyenne ]-----\n")
     decloisonement_mean(datas)
     print("\n")

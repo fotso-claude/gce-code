@@ -439,5 +439,19 @@
             "HIS": "E",
             "LIT": "E"
         }
+    },
+    "FICTIF 1": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "A",
+            "LIT": "C"
+        }
+    },
+    "FICTIF 2": {
+        "passed_paper": 2,
+        "score": {
+            "HIS": "B",
+            "LIT": "B"
+        }
     }
 }
